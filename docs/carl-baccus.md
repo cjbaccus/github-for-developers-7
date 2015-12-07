@@ -12,3 +12,5 @@
 * VoIP
 
 ** Favorite person in the world:** Desiree Baccus
+
+** Faovorite pastime: ** Being a douche

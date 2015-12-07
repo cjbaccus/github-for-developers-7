@@ -1,15 +1,14 @@
 ### Introduction
 
-** Name ** 
-Carl Baccus
+** Name: **  Carl Baccus
 
-### Favorite food
-Sushi
+** Favorite food:** Sushi
 
-### Favorite hobbies
+** favorite color:** Blue
+
+** Favorite hobbies:**
 * Programming in Python
 * Network Engineering
 * VoIP
 
-### Favorite person in the world
-Desiree Baccus
+** Favorite person in the world:** Desiree Baccus
